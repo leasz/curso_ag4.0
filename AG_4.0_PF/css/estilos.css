@@ -1,0 +1,8 @@
+*{
+    border: 1px dotted black;
+}
+
+.centrado {
+    text-align: center;
+    vertical-align: middle;
+}
