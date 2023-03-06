@@ -1,8 +1,19 @@
 *{
-    border: 1px dotted black;
+    /* border: 1px dotted black; */
 }
 
 .centrado {
     text-align: center;
     vertical-align: middle;
+}
+
+.datos_persona {
+    background-color: rgb(110, 185, 235);
+    border-radius: 5px;
+    color: rgb(23, 21, 26);
+}
+
+.foto_perfil {
+    background-color: rgb(110, 185, 235);
+    border-radius: 5px;
 }
